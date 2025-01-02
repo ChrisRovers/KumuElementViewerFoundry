@@ -1,7 +1,7 @@
 {
   "name": "kumu-relationship-map-element-display",
   "title": "Kumu Relationship Map Element Foundry Display",
-  "description": "A Foundry VTT module that allows storytellers to select a name and display associated images to players using data from a Kumu API.",
+  "description": "A Foundry VTT module that allows storytellers to select a name and display associated images to players using data from a Kumu embedded url.",
   "version": "1.0.0",
   "author": "Your Name",
   "minimumCoreVersion": "10",
